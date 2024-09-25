@@ -1,0 +1,88 @@
+[
+    {
+        "id":1,
+        "title":"GTX 1660",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/0.webp"
+    },
+    {
+        "id":2,
+        "title":"GTX 1060",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/1.webp"
+    },
+    {
+        "id":3,
+        "title":"GTX 1070",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/2.webp"
+    },
+    {
+        "id":4,
+        "title":"GTX 1080",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/3.webp"
+    }
+    ,
+    {
+        "id":5,
+        "title":"GTX 2060",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/4.webp"
+    },
+    {
+        "id":6,
+        "title":"GTX 3060",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/5.webp"
+    },{
+        "id":1,
+        "title":"GTX 1660",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/0.webp"
+    },
+    {
+        "id":2,
+        "title":"GTX 1060",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/1.webp"
+    },
+    {
+        "id":3,
+        "title":"GTX 1070",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/2.webp"
+    },
+    {
+        "id":4,
+        "title":"GTX 1080",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/3.webp"
+    }
+    ,
+    {
+        "id":5,
+        "title":"GTX 2060",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/4.webp"
+    },
+    {
+        "id":6,
+        "title":"GTX 3060",
+        "Description":"6GB + 2 Twin bladed fans with instant cooling technology",
+        "price":390,
+        "image":"image/5.webp"
+    }
+
+]
